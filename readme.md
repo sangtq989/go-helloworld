@@ -1,0 +1,1 @@
+docker run -d -p 8080:8080 sangtq989/helloworld:latest && curl http://localhost:8080
